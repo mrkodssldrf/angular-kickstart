@@ -1,5 +1,8 @@
-keepInMind
+Angular Kickstarter 
 ============
+
+## Build with slush.js added coffeeify support 
+look at sample TodoCtrl
 
 ## Development
 
